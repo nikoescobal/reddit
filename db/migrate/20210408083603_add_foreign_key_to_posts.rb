@@ -3,3 +3,4 @@ class AddForeignKeyToPosts < ActiveRecord::Migration[6.1]
     add_reference :posts, :user, null: false, foreign_key: true
   end
 end
+ 
