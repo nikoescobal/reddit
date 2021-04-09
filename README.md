@@ -1,6 +1,6 @@
 # Active Records Model of Micro-Reddit
 
-## This project is an application similar to Reddit (called active_record) where a user can create a post and add comments to it.
+#### This project is an application similar to Reddit (called active_record) where a user can create a post and add comments to it.
 
 
 ## Built with
